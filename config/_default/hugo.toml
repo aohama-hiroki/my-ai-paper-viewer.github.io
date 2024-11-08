@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://aohama-hiroki.github.io/"
+baseURL = "https://aohama-hiroki.github.io/my-ai-paper-viewer.github.io/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
